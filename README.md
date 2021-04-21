@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sveta-b.github.io/rsschool-cv/cv/
