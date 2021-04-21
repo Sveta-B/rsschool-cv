@@ -5,7 +5,7 @@
 ### Contact details:
  **Email:** 9624996@gmail.com
  **Discord:** Svetlana#8702
- **Phone:** 5588711
+
 
 ### Skills:
 * Git
